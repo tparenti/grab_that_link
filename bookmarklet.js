@@ -1,0 +1,1 @@
+(_=document.querySelector("iframe.share-client-content-iframe").contentWindow.document.querySelector(".slc-input")).value=_.value.replace(//file/d/(w+)/edit?usp=sharing/,"/uc?export=download&id=$1");void(0);
